@@ -1,6 +1,0 @@
-.env
-.env.*
-!.env.example
-firebase-admin.json
-node_modules
-.git
